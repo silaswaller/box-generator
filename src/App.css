@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  margin-top: 25px;
+}
+
+#color {
+  margin-right: 20px;
+}
+
+#submit {
+  margin-left: 20px;
 }
 
 .App-logo {
